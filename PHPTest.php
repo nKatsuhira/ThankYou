@@ -5,16 +5,8 @@ header("Access-Control-Allow-Origin: *");
 
 $ThankYou = [
     [
-        "bruh" => [
-            "color" => "Grey",
-            "text_size" => 16,
-            "members" => [
-                "test1",
-                "test2",
-                "hurensohnvonnebenan"
-            ]
-        ]
-
+        "bruh" => "bruh2",
+        "fuck" => "fucj3"
     ]
 ];
 
