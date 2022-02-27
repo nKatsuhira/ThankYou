@@ -1,6 +1,6 @@
 <?php
 
-header("Contest-Type: application/json");
+header("Content-Type: application/json");
 header("Access-Control-Allow-Origin: *");
 
 $ThankYou = [
