@@ -22,6 +22,6 @@ $ThankYou = [
             "hurensohnvonnebenan"
         ]
     ]
-]
+ ];
 
 echo json_encode($ThankYou, JSON_PRETTY_PRINT);
