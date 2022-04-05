@@ -1,19 +1,10 @@
 {
-  "Test1": {
+  "Support": {
     "color": "Yellow",
     "text_size": 32,
     "members": [
-      "test1",
-      "test2"
-      ]
-  },
-  "Test2": {
-    "color": "Grey",
-    "text_size": 16,
-    "members": [
-      "test1",
-      "test2",
-      "hurensohnvonnebenan"
+      "My GF <3",
       ]
   }
 }
+
